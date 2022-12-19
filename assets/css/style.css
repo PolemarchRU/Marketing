@@ -904,7 +904,46 @@ h1, h2, h3, h4, h5, h6, p, ul {
     display: none;
 }
 
-@media (max-width: 1320px) {
+@media (max-width: 1900px) {
+
+    /* Container */
+
+    .container {
+        /* -100px */
+        width: 1800px;
+    }
+
+    /* Contant */
+
+    .content {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 1800px) {
+
+    /* Container */
+
+    .container {
+        /* -100px */
+        width: 1700px;
+    }
+
+}
+
+@media (max-width: 1700px) {
+
+    /* Container */
+
+    .container {
+        /* -100px */
+        width: 1600px;
+    }
+
+}
+
+@media (max-width: 1650px) {
 
     /* Container */
 
